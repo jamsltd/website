@@ -1,16 +1,17 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About JAMS
+  title : About Us
   about_item :
-    - icon : ti-music-alt
-      title : Immersive Music Collaboration
-      content : JAMS develops technologies that allow musicians to rehearse and perform together using virtual bandmates in AR/VR environments.
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Immersive Music Collaboration
+    content : JAMS develops technologies that allow musicians to rehearse and perform together using virtual bandmates in AR/VR environments.
 
-    - icon : ti-microphone
-      title : Research-Driven Innovation
-      content : Our platform is grounded in cognitive science, neuroscience, and cutting-edge audio-visual computing to empower musical expression.
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Research-Driven Innovation
+    content : Our platform is grounded in cognitive science, neuroscience, and cutting-edge audio-visual computing to empower musical expression.
 
-    - icon : ti-desktop
-      title : Accessible & Educational
-      content : We provide intuitive tools for musicians at all levels—whether you're an educator, learner, or performer, JAMS brings ensemble play to your space.
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Accessible & Educational
+    content : We provide intuitive tools for musicians at all levels—whether you're an educator, learner, or performer, JAMS brings ensemble play to your space.
+   
