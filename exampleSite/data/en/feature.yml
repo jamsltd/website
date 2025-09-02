@@ -3,25 +3,21 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+   title : Technology That Connects Musicians
+  content : "JAMS combines AI, AR/VR, and spatial audio to create interactive rehearsal spaces. Our tools adapt to your playing, wherever you are."
+  feature_item :
+    - title : Adaptive Bandmates
+      icon : ti-headphone
+      content : Play with responsive virtual musicians that adjust to your tempo, dynamics, and gestures.
 
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Cross-Device Access
+      icon : ti-tablet
+      content : Use JAMS on iPad, Vision Pro, or PCVR—rehearse solo or with others in hybrid reality.
+
+    - title : Real-Time Feedback
+      icon : ti-stats-up
+      content : Track timing, synchrony, and musical tightness with built-in metrics and visualisations.
+
+    - title : Audio-Visual Sync
+      icon : ti-video-clapper
+      content : High-fidelity synchronisation of gesture, sound, and video powered by real-time computing.
