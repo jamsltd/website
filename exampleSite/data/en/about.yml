@@ -4,14 +4,13 @@ about:
   title : About Us
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Immersive Music Collaboration
-    content : JAMS develops technologies that allow musicians to rehearse and perform together using virtual bandmates in AR/VR environments.
+    title : We're Creative
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : Research-Driven Innovation
-    content : Our platform is grounded in cognitive science, neuroscience, and cutting-edge audio-visual computing to empower musical expression.
+    title : We're Professional
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Accessible & Educational
-    content : We provide intuitive tools for musicians at all levels—whether you're an educator, learner, or performer, JAMS brings ensemble play to your space.
-   
+    title : We're Genius
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
