@@ -1,8 +1,8 @@
 ############################# About ###################################
 about:
-  enable : true
+enable : true
   title : About Us
-  about_item :
+about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
