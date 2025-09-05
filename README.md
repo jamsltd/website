@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ba2d3ba-e94f-4285-8df5-a797e95259c1/deploy-status)](https://app.netlify.com/projects/jamsltd/deploys)
+
+
 <h1 align=center>Meghna Hugo Theme</h1>
 
 <p align="center">Meghna is a dark single page professional Hugo website theme and crafted with all the necessary elements and features you will need to present your business.</p>
